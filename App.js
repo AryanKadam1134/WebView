@@ -6,7 +6,7 @@ const MyWebView = () => {
   return (
     <View style={styles.container}>
       <WebView 
-        source={{ uri: "https://testwebapp-eight.vercel.app/" }} 
+        source={{ uri: "https://team-deployers.vercel.app/" }} 
         javaScriptEnabled={true}
         domStorageEnabled={true}
       />

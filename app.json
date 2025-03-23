@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.aryankadam3114.WebViewApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a68d6ff9-feb3-4a0a-94c7-33ab4b3d8a36"
+      }
+    },
+    "owner": "aryankadam3114"
   }
 }
